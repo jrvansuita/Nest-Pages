@@ -1,3 +1,5 @@
+<style>.site-title{display:none}.site-nav{display:none}</style>
+
 # Privacy Policy
 
 **Last updated:** August 8, 2025
