@@ -2,4 +2,4 @@
 
 ### Privacy Policies
 
-[Rec App](https://jrvansuita.github.io/Nest-Pages/apps/rec/)
+[Rec App](apps/rec/index.md)
