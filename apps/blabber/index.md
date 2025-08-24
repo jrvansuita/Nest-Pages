@@ -2,7 +2,7 @@
 
 # Privacy Policy
 
-**Last updated:** August 24, 2025
+**Last updated:** August 8, 2025
 
 This Privacy Policy describes Our policies and procedures on the collection, use, and disclosure of
 Your information when You use the Service, and informs You about Your privacy rights and how the law
@@ -24,10 +24,10 @@ apply whether they appear in singular or plural form.
 
 For the purposes of this Privacy Policy:
 
-- **Application** refers to the software program provided by the Company, **Recorder**,
+- **Application** refers to the software program provided by the Company, **Blabber**,
   installed on Your device.
 - **Company** (referred to as either "the Company", "We", "Us", or "Our") refers to the developer of
-  the **Recorder** app.
+  the **Blabber** app.
 - **Country** refers to: **Brazil**
 - **Device** means any device that can access the Service, such as a smartphone, tablet, or
   computer.
@@ -47,7 +47,8 @@ For the purposes of this Privacy Policy:
 #### Personal Data
 
 We may ask You to provide certain personally identifiable information (such as your email address)
-if You contact Us directly. However, the app does not collect personal information by default.
+if You contact Us directly. However, the app does not collect personal information by default and
+does not require sign-up or login.
 
 #### Usage Data
 
@@ -66,7 +67,7 @@ in line with Google’s privacy practices.
 
 The app requires access to Your device's **microphone** to function as a voice recorder. Audio data
 is **stored locally on Your device** and is **not uploaded or transmitted** unless explicitly shared
-by You.
+by You through other apps (e.g., WhatsApp, Instagram).
 
 ---
 
@@ -77,20 +78,22 @@ We may use Personal Data (if collected) for the following purposes:
 - To provide and maintain the Service.
 - To improve performance, fix bugs, and monitor app usage.
 - To contact You if You reach out for support or feedback.
+- To display advertising that helps keep the app free.
 
 ---
 
 ## Retention of Your Data
 
 - We do not store any personal data on our servers.
-- Usage data (such as crash reports) may be retained anonymously to improve the app.
+- Usage Data (such as crash reports and analytics) may be retained anonymously to improve the app.
 
 ---
 
 ## Transfer of Your Data
 
 Your data is stored locally on your device. No personal data is transferred outside your country
-unless you explicitly choose to share it (e.g., sending a recording via email or cloud service).
+unless you explicitly choose to share it (e.g., sending a recording via email, WhatsApp, or cloud
+service).
 
 ---
 
@@ -118,6 +121,17 @@ method of transmission or storage is 100% secure.
 Our Service is not intended for use by children under the age of 13. We do not knowingly collect
 personally identifiable information from anyone under 13. If we become aware of such data being
 collected, we will delete it promptly.
+
+---
+
+## Third-Party Services
+
+The Service uses third-party providers that have their own privacy policies:
+
+- **Firebase Analytics (Google)** – [See Privacy Policy](https://policies.google.com/privacy)
+- **Google AdMob** – [See Privacy Policy](https://policies.google.com/privacy)
+
+We encourage You to review their policies to understand how data is handled.
 
 ---
 
