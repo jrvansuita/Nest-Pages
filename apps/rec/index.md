@@ -2,7 +2,7 @@
 
 # Privacy Policy
 
-**Last updated:** August 24, 2025
+**Last updated:** August 8, 2025
 
 This Privacy Policy describes Our policies and procedures on the collection, use, and disclosure of
 Your information when You use the Service, and informs You about Your privacy rights and how the law
@@ -118,6 +118,17 @@ method of transmission or storage is 100% secure.
 Our Service is not intended for use by children under the age of 13. We do not knowingly collect
 personally identifiable information from anyone under 13. If we become aware of such data being
 collected, we will delete it promptly.
+
+---
+
+## Third-Party Services
+
+The Service uses third-party providers that have their own privacy policies:
+
+- **Firebase Analytics (Google)** – [See Privacy Policy](https://policies.google.com/privacy)
+- **Google AdMob** – [See Privacy Policy](https://policies.google.com/privacy)
+
+We encourage You to review their policies to understand how data is handled.
 
 ---
 
